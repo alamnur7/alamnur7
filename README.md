@@ -36,6 +36,6 @@ Detail-oriented Security Researcher and Full-Stack Developer with a strong found
 
 
  **Connect with me:**  
-- LinkedIn: `https://www.linkedin.com/in/nur-alam-a617483bb/`  
+- LinkedIn: [https://www.linkedin.com/in/nur-alam-a617483bb/]  
 - Portfolio / Write-ups: [Your Notion or Blog Link]  
 - Contact: `cooretanalam@gmail.com`
