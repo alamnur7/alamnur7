@@ -26,14 +26,15 @@ Here is a curated collection of my work demonstrating secure coding, security au
 
 ### 1. [springboot-appsec-blueprint](https://github.com/alamnur7/springboot-appsec-blueprint)
 **Focus:** Secure-by-Design Architecture & Remediation Patterns
-• Reference implementations for secure REST API patterns built with Java Spring Boot and containerized infrastructure (Docker).
-• Documented security architecture and authentication/authorization flows inside /docs (IAM integration, Rate Limiting, Input Sanitization).
-• Concrete code-level fixes and defensive coding patterns mapped to common OWASP vulnerabilities.
-### 2. [security-recon-toolkit](https://github.com/alamnur7/security-recon-toolkit)
+Reference implementations for secure **REST API** patterns built with **Java Spring Boot** and containerized infrastructure (Docker), featuring documented security architecture and authentication/authorization flows inside /docs (IAM integration, Rate Limiting, Input Sanitization), alongside concrete code-level fixes and defensive coding patterns mapped to common **OWASP** vulnerabilities.
+### 2. [secure-api-architecture-blueprint](https://github.com/alamnur7/secure-api-architecture-blueprint)
+**Focus**: Security Standards, Threat Modeling & Defense-in-Depth Theory
+Full-stack architectural blueprints **(Spring Boot, Flutter, PostgreSQL)** grounded in OWASP Top 10 and OWASP API Security Top 10 standards, featuring theoretical security flows modeled with Mermaid.js across Stateless Auth (JWT), Role-Based Access Control (RBAC), and DevSecOps CI/CD pipelines, alongside layered defense concepts spanning application-level validation, network resilience (Rate Limiting, CORS), and infrastructure hardening (VPS, UFW, SSH).
+### 3. [security-recon-toolkit](https://github.com/alamnur7/security-recon-toolkit)
 **Focus:** Security Automation & Reconnaissance Pipeline
-Modular automation scripts built with **Bash** for passive asset discovery, HTTP verification, and endpoint harvesting.
+Modular automation scripts built with **Bash** and **Python** for passive asset discovery, HTTP verification, and endpoint harvesting.
 Structured workspace architecture designed for resource efficiency and seamless downstream integration into testing tools (ffuf, nuclei, Burp Suite).
-### 3. [web-security-research-notes](https://github.com/alamnur7/web-security-research-notes)
+### 4. [web-security-research-notes](https://github.com/alamnur7/web-security-research-notes)
 **Focus:** Vulnerability Analysis, Root-Cause Dissection & Remediation
 Comprehensive security research write-ups analyzing real-world vulnerability classes (BOLA/IDOR, Stored DOM-XSS, etc.).
 Detailed attack chain sequence diagrams (**Mermaid.js**), HTTP PoC requests, root-cause analyses, and concrete server/client-side remediation code.
