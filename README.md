@@ -24,11 +24,11 @@ I bridge the gap between software development and security. With a strong backgr
 Here is a curated collection of my work demonstrating secure coding, security automation, and in-depth vulnerability research:
 
 
-### 1. [secure-api-architecture-blueprint](https://github.com/alamnur7/secure-api-architecture-blueprint)
+### 1. [springboot-appsec-blueprint](https://github.com/alamnur7/springboot-appsec-blueprint)
 **Focus:** Secure-by-Design Architecture & Remediation Patterns
-Reference implementations for secure REST API patterns using **Java Spring Boot** and **Flutter**.
-Architectural security flows modeled using **Mermaid.js** (Authentication, Authorization, Rate Limiting, Input Sanitization).
-Concrete code-level fixes and defensive coding patterns mapped to common OWASP vulnerabilities.
+• Reference implementations for secure REST API patterns built with Java Spring Boot and containerized infrastructure (Docker).
+• Documented security architecture and authentication/authorization flows inside /docs (IAM integration, Rate Limiting, Input Sanitization).
+• Concrete code-level fixes and defensive coding patterns mapped to common OWASP vulnerabilities.
 ### 2. [security-recon-toolkit](https://github.com/alamnur7/security-recon-toolkit)
 **Focus:** Security Automation & Reconnaissance Pipeline
 Modular automation scripts built with **Bash** for passive asset discovery, HTTP verification, and endpoint harvesting.
