@@ -2,7 +2,7 @@
 ### Application Security Engineer | Security Researcher & Developer
 
 
-I bridge the gap between software development and security. With a strong background in software engineering (**Java Spring Boot, Flutter, Python**) and active experience in offensive security & bug hunting, I specialize in building secure-by-design architectures, conducting deep vulnerability research, and automating security controls within modern CI/CD pipelines.
+I bridge the gap between software development and security. With a strong background in software engineering (**Spring Boot, JavaScript, Python**) and active experience in offensive security & bug hunting, I specialize in building secure-by-design architectures, conducting deep vulnerability research, and automating security controls within modern CI/CD pipelines.
 
 
 ---
@@ -45,10 +45,10 @@ Detailed attack chain sequence diagrams (**Mermaid.js**), HTTP PoC requests, roo
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Development & Scripting** | Java (Spring Boot), Dart (Flutter), Python, JavaScript, Bash |
-| **Databases & Environments** | PostgreSQL, MySQL, Docker, Linux (Kali/Ubuntu), Git |
+| **Development & Scripting** | Java (Spring Boot), Python, JavaScript, Bash |
+| **Databases & Environments** | PostgreSQL, Docker, Linux (Kali/Ubuntu), Git |
 | **SAST, SCA & Secret Scanning** | Semgrep, SonarQube, Dependabot, TruffleHog / Gitleaks |
-| **DAST, API Testing & Recon** | Burp Suite Pro, Subfinder, Httpx, Katana, Nuclei, Ffuf, Postman |
+| **DAST, API Testing & Recon** | Burp Suite, Subfinder, Httpx, Katana, Nuclei, Ffuf, Postman, Bruno |
 | **DevSecOps & Workflow** | GitHub Actions, Git, Threat Modeling, Jira |
 
 
